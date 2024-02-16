@@ -53,7 +53,7 @@ for i in range(len(int_list)):
 print(f"Your ascending_list without number repetation is\n{ascending_list}\n")
 os.system('pause')
 
-os.system('clear')
+os.system('cls')
 
 
 
